@@ -16,7 +16,7 @@ Here is the deployments text
 
 ##How To Contribute
 
-One needs to do with it
+One needs to do with itrf
 
 ###Copyright
 
