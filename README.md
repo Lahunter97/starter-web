@@ -16,7 +16,7 @@ Here is the deployments text
 
 ##How To Contribute
 
-please work this repository
+please work this repository now and next
 
 ###Copyright
 
