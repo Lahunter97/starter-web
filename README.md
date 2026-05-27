@@ -17,9 +17,13 @@ Here is the deployments text
 ##How To Contribute
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 please work this repository now and next
 =======
 One needs to do with it
+>>>>>>> simple-changes
+=======
+One needs to do with itrf
 >>>>>>> simple-changes
 
 ###Copyright
