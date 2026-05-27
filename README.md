@@ -15,3 +15,8 @@ This is text of the purpose
 Here is the deployments text
 
 ##How To Contribute
+
+
+###Copyright
+
+2026 copyright
