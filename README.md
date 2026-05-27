@@ -16,7 +16,11 @@ Here is the deployments text
 
 ##How To Contribute
 
+<<<<<<< HEAD
 please work this repository now and next
+=======
+One needs to do with it
+>>>>>>> simple-changes
 
 ###Copyright
 
