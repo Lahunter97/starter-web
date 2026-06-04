@@ -1,2 +1,6 @@
 exclud.txt
-log
+log/
+*_BACKUP_*.html
+*_BASE_*.html
+*_LOCAL_*.html
+*_REMOTE_*.html
