@@ -5,7 +5,7 @@
 
     <Somebody> -- <QA> -- <@awesome>
 
-# THANKS
+# THANKS to all teammates
 
     <name>
 
